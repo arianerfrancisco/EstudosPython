@@ -1,2 +1,2 @@
-# Projetos-Colab
-Python
+# Estudos Python Fundamentos
+Curso em vídeo: Gustavo Guanabara
